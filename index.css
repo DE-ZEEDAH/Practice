@@ -8,9 +8,11 @@ header{
     border: 1px solid;
     position: fixed;
     width: 100%;
+    align-items: center;
 }
 nav{
     border:2px solid red;
     width: 80%;
     margin: auto;
+    height: 60px;
 }
